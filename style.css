@@ -1,0 +1,22 @@
+html{
+    
+}
+ 
+}
+h2{
+    color:red;
+    background-color: bisque;
+    text-align : center;
+    font-style: oblique;
+    font-family: fantasy;
+    
+}
+intro{color:red;
+    font-weight:bold}
+body{
+    color: blue;
+    background-color: aqua
+}
+#intro{
+    color: chocolate
+}
